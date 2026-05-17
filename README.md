@@ -1,4 +1,4 @@
-# SHL Conversational Assessment Recommender
+#Conversational Assessment Recommender
 
 A conversational AI agent that helps hiring managers and recruiters find the right SHL Individual Test Solutions through natural dialogue. Built as a take-home assignment for the **SHL Labs AI Intern role**.
 
